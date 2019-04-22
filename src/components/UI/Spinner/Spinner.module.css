@@ -41,6 +41,7 @@
   bottom: 0;
   right: 0;
 }
+
 @-webkit-keyframes load3 {
   0% {
     -webkit-transform: rotate(0deg);
